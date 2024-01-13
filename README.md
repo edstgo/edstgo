@@ -9,13 +9,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-###My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+### My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,selenium,bash,html,css,git,github,gitlab,gradle,idea,powershell,py,figma&theme=light)](https://skillicons.dev)
 
 
-###My Stats:
+### My Stats:
 
-###A Quote:
+### A Quote:
 <!--
 **edstgo/edstgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
