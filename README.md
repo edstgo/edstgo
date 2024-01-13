@@ -42,7 +42,7 @@ I'm a Software Quality Engineer interested in automation development, learning n
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edstgo&layout=compact&langs_count=8&card_width=320" />
 </a>
 -->
-## 💡 A Quote:
+## 💡 Quote:
 ```
 I can not relate to lazy people. We do not speak the same language. I do not understand you. I do not want to understand you.
 - Kobe Bryant
