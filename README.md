@@ -32,6 +32,7 @@ I'm a Software Quality Engineer interested in automation development, learning n
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,gradle,docker&theme=light)](https://skillicons.dev)
 
+<!--
 ## 🏆 My GitHub Stats:
 <a href="https://github.com/edstgo/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=edstgo&show_icons=true&theme=city_lights" />
@@ -40,9 +41,7 @@ I'm a Software Quality Engineer interested in automation development, learning n
 <a href="https://github.com/edstgo/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edstgo&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
-
+-->
 ## 💡 A Quote:
 ```
 I can not relate to lazy people. We do not speak the same language. I do not understand you. I do not want to understand you.
