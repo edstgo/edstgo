@@ -8,9 +8,9 @@ I'm a Software Quality Engineer interested in automation development, learning n
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... like to read, bike and hiking 💻
 
-## (https://icons8.com/icon/nK5KokYOqcnT/laptop) My Tech Stack
+## <img src="icons/laptop.png" alt="My Tech Stack" width="25x" /> My Tech Stack 
 
 ### OOP
 [![My Skills](https://skillicons.dev/icons?i=java,cs,py&theme=light)](https://skillicons.dev)
@@ -18,13 +18,22 @@ I'm a Software Quality Engineer interested in automation development, learning n
 [![My Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)
 ### Git (Missing; AzDO)
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,azdo&theme=light)](https://skillicons.dev)
+<img src="icons/azuredevops.svg" width="25x" />
 ### Web
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
-### Other
-[![My Skills](https://skillicons.dev/icons?i=bash,gradle,powershell&theme=light)](https://skillicons.dev)
 ### IDE
 [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,atom&theme=light)](https://skillicons.dev)
+### Other
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,gradle&theme=light)](https://skillicons.dev)
 
-## My Stats:
+## 🏆 My GitHub Stats:
+<a href="https://github.com/edstgo/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=edstgo&show_icons=true&theme=city_lights" />
+</a>
+<a href="https://github.com/edstgo/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edstgo&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-## A Quote:
+
+
+## 💡 A Quote:
