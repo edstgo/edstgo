@@ -12,8 +12,18 @@ I'm a Software Quality Engineer interested in automation development, learning n
 
 ## My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,selenium,bash,html,css,git,github,gitlab,gradle,idea,powershell,py,figma&theme=light&perline=3)](https://skillicons.dev)
-
+### OOP
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,figma&theme=light)](https://skillicons.dev)
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=selenium,figma&theme=light)](https://skillicons.dev)
+### Git (Missing; AzDO)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,figma&theme=light)](https://skillicons.dev)
+### Web
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma&theme=light)](https://skillicons.dev)
+### Other
+[![My Skills](https://skillicons.dev/icons?i=bash,gradle,powershell,figma&theme=light)](https://skillicons.dev)
+### IDE
+[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,atom,figma&theme=light)](https://skillicons.dev)
 
 ## My Stats:
 
