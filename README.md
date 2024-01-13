@@ -10,7 +10,7 @@ I'm a Software Quality Engineer interested in automation development, learning n
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-## [My Tech Stack](https://icons8.com/icon/nK5KokYOqcnT/laptop)
+## (https://icons8.com/icon/nK5KokYOqcnT/laptop)My Tech Stack
 
 ### OOP
 [![My Skills](https://skillicons.dev/icons?i=java,cs,py&theme=light)](https://skillicons.dev)
