@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Software Quality Engineer interested in automation development, learning new technology trends, and helping others. I work on personal projects in my free time that facilitate my life.
+I'm a Software Development Engineer in Test interested in automation development, learning new technology trends, and helping others. I work on personal projects in my free time that facilitate my life.
 
 - 🔭 I’m currently working on ... Java Selenium Framework
 - 🌱 I’m currently learning ... JavaScript
